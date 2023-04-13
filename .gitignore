@@ -1,0 +1,144 @@
+
+Data/cusip_cik_link.csv
+Data/data_8k.csv
+Data/data_8k_rp.csv
+Data/data_ccm.csv
+Data/data_ibes_analyst_forecast_revisions.csv
+Data/data_ibes_guidance.csv
+Data/data_ibes_num_rec.csv
+Data/data_rp.csv
+Data/data_sdc_bonds.csv
+Data/data_sdc_loans.csv
+Data/data_sdc_ma.csv
+Data/erp.mat
+Data/final_data.csv
+Data/io_pct.mat
+Data/mpe.csv
+Data/periods.mat
+Data/rp_data_raw.csv
+Data/SurpriseData.mat
+Data/temp_ma_data.mat
+dvw_full.do
+dvw_ms_log_20230331.txt
+Inputs/dailyFFsurprises.xlsx
+Inputs/erp_public_221025.csv
+Inputs/io_timeseries.csv
+Inputs/Replication Code-20190750/do0balancesheetdata.do
+Inputs/Replication Code-20190750/do0famafrench.do
+Inputs/Replication Code-20190750/do0quarterlyassets.do
+Inputs/Replication Code-20190750/do0spdates.do
+Inputs/Replication Code-20190750/do0stockdata.do
+Inputs/Replication Code-20190750/do10stockregressions.do
+Inputs/Replication Code-20190750/do11balancesheetregressions.do
+Inputs/Replication Code-20190750/do12tablesandfigures.do
+Inputs/Replication Code-20190750/do1policysurprises.do
+Inputs/Replication Code-20190750/do1policysurprises_infoeffect.do
+Inputs/Replication Code-20190750/do1policysurprises_longer.do
+Inputs/Replication Code-20190750/do2ciq.do
+Inputs/Replication Code-20190750/do3compustat.do
+Inputs/Replication Code-20190750/do4stockreturn.do
+Inputs/Replication Code-20190750/do5stockregressionsdata.do
+Inputs/Replication Code-20190750/do6quarterlyfirmdata.do
+Inputs/Replication Code-20190750/do7sumtargetpath.do
+Inputs/Replication Code-20190750/do8balancesheetregressionsdata.do
+Inputs/Replication Code-20190750/do9pseudodataregressions.do
+Inputs/Replication Code-20190750/GSSfactors.xlsx
+Inputs/Replication Code-20190750/GSSrawdata.xlsx
+Inputs/Replication Code-20190750/hedgedata.xls
+Inputs/Replication Code-20190750/pseudobalance.xlsx
+Inputs/Replication Code-20190750/pseudostock.xlsx
+Inputs/Replication Code-20190750/README-datasetconstruction.txt
+Inputs/Replication Code-20190750/README-hedgedata.txt
+Inputs/Replication Code-20190750/README-overallguide(readthisfirst).txt
+Inputs/Replication Code-20190750/README-regressions.txt
+Inputs/SDC/Bonds/GridExport_February_7_2022_12_51_48.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_12_52_18.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_12_52_52.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_12_54_3.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_12_55_7.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_10_2.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_10_45.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_11_11.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_12_32.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_12_52.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_13_17.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_13_38.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_14_28.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_14_4.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_14_53.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_15_20.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_15_46.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_18_51.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_20_10.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_21_55.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_21_9.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_22_37.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_23_58.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_24_52.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_25_20.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_25_45.xlsx
+Inputs/SDC/Bonds/GridExport_February_7_2022_13_8_7.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_28_34.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_29_27.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_30_36.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_30_5.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_31_41.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_31_9.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_32_41.xlsx
+Inputs/SDC/Loans/GridExport_February_7_2022_14_33_6.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_10_11.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_10_46.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_11_54.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_12_36.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_13_56.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_14_37.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_15_35.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_16_51.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_20_14.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_20_53.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_21_24.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_21_53.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_22_31.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_23_54.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_23_6.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_24_37.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_25_8.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_29_51.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_30_37.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_31_46.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_32_14.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_32_44.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_33_10.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_38_10.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_38_51.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_39_38.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_40_18.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_11_9_36.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_12_23_3.xlsx
+Inputs/SDC/M&A/GridExport_February_7_2022_12_24_8.xlsx
+Inputs/WRDS/ibes_det_guidance.csv
+Inputs/WRDS/ibes_recdsum.csv
+Inputs/WRDS/ibes_statsum_epsint.csv
+Inputs/WRDS/ibes_statsum_epsus.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2004.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2005.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2006.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2007.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2008.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2009.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2010.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2011.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2012.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2013.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2014.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2015.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2016.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2017.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2018.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2019.csv
+Inputs/WRDS/Ravenpack/RPNA_PR_EQUITIES_2020.csv
+Inputs/WRDS/wrdsapps_ibcrsphist.csv
+Inputs/WRDS/wrdssec_items8k.csv
+Inputs/WRDS/wrdssec_wciklink_cusip.csv
+Results.doc
+Results.rtf
