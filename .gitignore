@@ -142,3 +142,33 @@ Inputs/WRDS/wrdssec_items8k.csv
 Inputs/WRDS/wrdssec_wciklink_cusip.csv
 Results.doc
 Results.rtf
+Data Dictionary.xlsx
+dmv_stata_log.smcl
+MS Code Package/1.AssayingAnomalies-0.4.zip
+MS Code Package/Dambra-Velikov-Weber.zip
+MS Code Package/Data Dictionary.xlsx
+MS Code Package/dmv_stata_log.smcl
+MS Code Package/dvw.do
+MS Code Package/dvw.m
+MS Code Package/Functions & Scripts/download_wrds_data.m
+MS Code Package/Functions & Scripts/make_8k_data.m
+MS Code Package/Functions & Scripts/make_8k_ravenpack_merge.m
+MS Code Package/Functions & Scripts/make_ccm_data.m
+MS Code Package/Functions & Scripts/make_cik_cusip_link.m
+MS Code Package/Functions & Scripts/make_erp_data.m
+MS Code Package/Functions & Scripts/make_fomc_surprises.m
+MS Code Package/Functions & Scripts/make_ibes_analyst_forecast_data.m
+MS Code Package/Functions & Scripts/make_ibes_guidance_data.m
+MS Code Package/Functions & Scripts/make_ibes_num_rec.m
+MS Code Package/Functions & Scripts/make_io_data.m
+MS Code Package/Functions & Scripts/make_mpe.m
+MS Code Package/Functions & Scripts/make_ravenpack_data.m
+MS Code Package/Functions & Scripts/make_sdc_data.m
+MS Code Package/Functions & Scripts/merge_data.m
+MS Code Package/Inputs/FOMC_dates.csv
+MS Code Package/Inputs/io_timeseries.sas
+MS Code Package/Inputs/SDC/Bonds/bonds_screen_snapshot.JPG
+MS Code Package/Inputs/SDC/Loans/loans_screen_snapshot.JPG
+MS Code Package/Inputs/SDC/M&A/ma_screen_snapshot.JPG
+MS Code Package/LICENSE
+MS Code Package/README.MD
